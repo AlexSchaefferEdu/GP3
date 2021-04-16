@@ -1,0 +1,5 @@
+TODO:
+
+1. Finish Presentation_Schaeffer
+2. Cumuliatve Analysis across MLdata CSVs
+3. Compile group presentation
